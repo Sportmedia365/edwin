@@ -32,7 +32,6 @@ $(document).ready(function () {
     });
   });
 
-  $(function() {
-    $("#accordion").accordion();
-    });
-    
+$(document).ready(function() {
+  $("#accordion").accordion();
+});
